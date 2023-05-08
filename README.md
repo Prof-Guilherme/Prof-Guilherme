@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, bem-vindos 👋
 
 <!--
 **Prof-Guilherme/Prof-Guilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
